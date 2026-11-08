@@ -1,7 +1,7 @@
 # 09 — UI Specification · AI Travel Planner
 
 > **Fase BMAD:** Solutioning (UX) · **Agente:** UI Designer
-> **Insumos:** 00-constitucion.md (v2.0.0), 06-user-stories.md (HU-001 a HU-012), 07-architecture.md (C-01, C-03, C-18; §3 modelo de datos; §4 contratos de API; §5 flujo del invitado y asociación; ADR-004, ADR-005, ADR-007, ADR-008), 02-alcance.md, 03-reglas-de-negocio.md (RN-NNN y Anexo A, PAR-01 a PAR-11), 04-glosario.md
+> **Insumos:** 00-constitucion.md, 06-user-stories.md (HU-001 a HU-012), 07-architecture.md (C-01, C-03, C-18; §3 modelo de datos; §4 contratos de API; §5 flujo del invitado y asociación; ADR-004, ADR-005, ADR-007, ADR-008), 02-alcance.md, 03-reglas-de-negocio.md (RN-NNN y Anexo A, PAR-01 a PAR-11), 04-glosario.md
 > **Estado:** Borrador · **Fecha:** 2026-11-07
 > **Alcance de plataforma:** v1 = solo web responsive Next.js (D-10, ADR-007): viewport móvil 360–430 px y viewport de escritorio ≥ 1024 px. La app Expo es post-v1 y no se especifica aquí.
 

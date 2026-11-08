@@ -1,7 +1,7 @@
 # 03 — Reglas de negocio · AI Travel Planner
 
 > **Fase BMAD:** Planificación · **Agente:** Business Analyst
-> **Insumos:** 00-constitucion.md (v2.0.0), 01-project-brief.md (v1.2), 02-alcance.md
+> **Insumos:** 00-constitucion.md, 01-project-brief.md (v1.2), 02-alcance.md
 > **Fecha:** 2026-11-07 · **Revisión:** 2026-11-07, correcciones de la auditoría QA (ver Anexo D)
 > **Estado:** Borrador para revisión del Product Owner (aprobación pendiente en PREG-54; PAR y reglas "BA (propuesta)" en PREG-55) · Preguntas abiertas en 05-preguntas-abiertas.md
 > **Revisión 2026-11-07 (Checkpoint 1):** referencias al Alcance R-NN/D-NN → RES-NN/DEP-NN (AL-27); RN-024 reescrita: aviso migratorio genérico en todo itinerario, incluido Perú, sin pedir residencia ni nacionalidad (AL-24).

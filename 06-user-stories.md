@@ -1,7 +1,7 @@
 # 06 — Historias de Usuario · AI Travel Planner
 
 > **Fase BMAD:** Planificación · **Agente:** PO
-> **Insumos:** 00-constitucion.md (v2.0.0), 01-project-brief.md (v1.2), 02-alcance.md, 03-reglas-de-negocio.md
+> **Insumos:** 00-constitucion.md, 01-project-brief.md (v1.2), 02-alcance.md, 03-reglas-de-negocio.md
 > **Estado:** Borrador · **Fecha:** 2026-11-07
 > **País de operación:** Perú (mercado inicial Perú y Latinoamérica; cualquier destino)
 > Enriquecido por Agente QA Funcional 2026-11-07

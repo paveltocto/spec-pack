@@ -1,4 +1,4 @@
-# 🗺️ AI Travel Planner — Spec Pack v2.0
+# 🗺️ AI Travel Planner — Spec Pack
 
 > **Especificación técnica y funcional bajo la metodología Spec-Driven Development (SDD)**  
 > **Proyecto:** AI Travel Planner  

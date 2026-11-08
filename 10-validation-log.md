@@ -1,7 +1,7 @@
 # 10 — Validation Log · AI Travel Planner
 
 > **Fase BMAD:** Prototipado y Validación · **Agente:** Consolidador de Validación y Spec Finalizer  
-> **Insumos:** 00-constitucion.md (v2.0.0), 01-project-brief.md (v1.2), 02-alcance.md, 03-reglas-de-negocio.md, 04-glosario.md, 06-user-stories.md, 07-architecture.md, 08-backlog.md, 09-ui-spec.md  
+> **Insumos:** 00-constitucion.md, 01-project-brief.md (v1.2), 02-alcance.md, 03-reglas-de-negocio.md, 04-glosario.md, 06-user-stories.md, 07-architecture.md, 08-backlog.md, 09-ui-spec.md  
 > **Fecha:** 2026-11-08 · **Versión:** 1.0.0 (Final Módulo 1)  
 > **Estado:** Aprobado · Cero hallazgos críticos pendientes
 
@@ -125,7 +125,7 @@ El Agente **Spec Finalizer** auditó los 11 documentos del Spec Pack frente a lo
 
 | Archivo | Cambios incorporados en la versión final v1.0 |
 |---|---|
-| `00-constitucion.md` | Refinado v2.0.0; limpieza de referencias internas de borrador. |
+| `00-constitucion.md` | Refinado; limpieza de referencias internas de borrador. |
 | `01-project-brief.md` | Refinado v1.2; alineación con alcance responsive y métricas medibles. |
 | `02-alcance.md` | Actualizado con dependencias DEP-NN, restricciones RES-NN y MoSCoW consistente. |
 | `03-reglas-de-negocio.md` | Expandido con más de 100 reglas EARS; semántica unificada de confiabilidad; limpieza de referencias de borrador. |

@@ -1262,7 +1262,7 @@ Decisión: **A** = ya resuelta en los archivos o por una decisión vigente · **
 | ARQ-Q-27 | B (amplía) | PREG-21 | PREG-21 trata la firma HMAC; se agregan la rotación del `kid` y su caso (c) o (d). |
 | ARQ-Q-28 | A | — | Resuelta por D-10 (decisiones-vigentes.md): v1 solo web responsive; 06 ya dice "web responsive". |
 | ARQ-Q-29 | C | PREG-79 | Ninguna PREG fija un presupuesto de rendimiento ni equipos de referencia (PREG-56 trata supuestos, no rendimiento). |
-| ARQ-Q-30 | A | — | La cabecera de 03 cita la Constitución v2.0.0; el fondo del Anexo B #4 de 03 lo resolvió PREG-11 (AL-29). |
+| ARQ-Q-30 | A | — | La cabecera de 03 cita la Constitución; el fondo del Anexo B #4 de 03 lo resolvió PREG-11 (AL-29). |
 | ARQ-Q-31 | C | PREG-72 | Ninguna PREG trata el CI ni el presupuesto del golden set. |
 | ARQ-Q-32 | B (amplía) | PREG-44 | Es la decisión pendiente n.° 4 de 00 (PREG-44); se agrega la región de Render y Supabase. |
 | ARQ-Q-33 | B | PREG-66 | Misma pregunta (`provider` y `model_version` frente a los logs mínimos). |
